@@ -413,13 +413,7 @@ class _DesktopHomePageState extends State<DesktopHomePage>
  
   }
 
-  Widget buildInstallCard(String title, String content, String btnText,
-      GestureTapCallback onPressed,
-      {double marginTop = 20.0,
-      String? help,
-      String? link,
-      bool? closeButton,
-      String? closeOption}) {
+  Widget buildInstallCard() {
   }
 
   @override
